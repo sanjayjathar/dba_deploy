@@ -4,4 +4,4 @@ show user;
 
 select name from tab;
 
-changes
+show user;
